@@ -24,12 +24,6 @@ public class mathprogram {
         
         
         
-        
-        
-        
-        Scanner scanner2 = new Scanner(System.in);
-        System.out.println("Enter a numebr");
-        int number  = scanner.nextInt();
 
         
 
