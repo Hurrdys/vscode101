@@ -1,4 +1,4 @@
-import java.io.Reader;
+
 import java.util.Scanner;
 public class impossiblegate {
     
@@ -32,7 +32,7 @@ public class impossiblegate {
                      Scanner suv = new Scanner(System.in);
                      System.out.println(" ' If an plane crashes on the border between Cannada and Usa, Where would the survivors be buried?");
                     String plane = scanner.nextLine();
-                        if (plane.equalsIgnoreCase("Survivers don't get buried")){
+                        if (plane.equalsIgnoreCase("Survivors don't get buried")){
                         System.out.println("That is correct, well done. You have asnwered all my quetion. I shall grant you with the treasure and a gate way out. ");
                         System.out.println("You then collect all the valuables and leave the cave at last. You return to your group and use the money you got for a wonder dinner with your friends.");
                         } else {
